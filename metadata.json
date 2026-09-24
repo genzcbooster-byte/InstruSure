@@ -1,0 +1,8 @@
+{
+  "name": "SIH Scaly",
+  "description": "Unified QR-based digital lifecycle platform for legal metrology instruments in India with Role-Based Access Control for Citizens, Businesses, LMO Officers, GATC Testing Centers, and State Oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
